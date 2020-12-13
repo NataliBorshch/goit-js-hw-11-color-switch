@@ -1,0 +1,18 @@
+button {
+  padding: 20px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border-radius: 20%;
+  margin: 20px;
+}
+.box-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+}
+
+.not-activ {
+  background-color: rgb(107, 103, 103);
+}
